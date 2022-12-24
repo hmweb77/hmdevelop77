@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oussama
 - 👀 I’m interested web development
 - 🌱 I’m currently learning js typejs reactjs
-- 💞️ I’m looking to collaborate on ddifferent projects
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me investisseur.marocain77@gmail.com
 
 <!---
