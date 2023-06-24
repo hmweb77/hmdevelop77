@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Oussama
 - 👀 I’m interested web development
-- 🌱 I’m currently learning js typescript reactjs
+- 🌱 I’m currently learning Typescript, Redux, Nextjs
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me oussamahamdani1@gmail.com
+- 📫 How to reach me hmwebs77@gmail.com
 
 <!---
 hmdevelop77/hmdevelop77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
