@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oussama
 - 👀 I’m interested web development
-- 🌱 I’m currently learning Typescript, Redux, Nextjs
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me hmwebs77@gmail.com
 
